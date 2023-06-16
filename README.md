@@ -12,3 +12,5 @@ Them main method Desc:
      * @return the diversity of the string
      * @throws BelowZeroException if the factorial calculation encounters a negative number
      */
+
+Recognizing that I utilized ChatGPT as a support tool to ensure that my code reached its highest potential.
