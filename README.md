@@ -4,7 +4,7 @@ Calculates the diversity of a string.
 I stumbled on a difficult problem that I couldn't easily solve on paper.
 However, I learned the pattern and devised the rule to get the solution.
 
-Them main method Desc:
+The main method Desc:
     /**
      * Calculates the diversity of a string.
      *
